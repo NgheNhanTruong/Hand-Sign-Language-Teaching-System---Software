@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>video-1561391948.mp4</file>
+    <file>MINIBOX.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,78 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Artboard 1.png</file>
+    <file>BG1.png</file>
+    <file>background_T4_2.png</file>
+    <file>background_T5_2.png</file>
+    <file>Nut_T4_1.png</file>
+    <file>Nut_T4_2.png</file>
+    <file>background_T5.png</file>
+    <file>button.png</file>
+    <file>hienthi_t5.png</file>
+    <file>Mic.png</file>
+    <file>MINIBOX.png</file>
+    <file>T3.png</file>
+    <file>T4.png</file>
+    <file>ư.png</file>
+    <file>đ.png</file>
+    <file>dau hoi.png</file>
+    <file>dau huyen.png</file>
+    <file>dau nang.png</file>
+    <file>dau ngã.png</file>
+    <file>dau sac.png</file>
+    <file>ê.png</file>
+    <file>ô.png</file>
+    <file>ơ.png</file>
+    <file>Background4.png</file>
+    <file>Hien_thi_1.png</file>
+    <file>Hien_thi_2.png</file>
+    <file>Nut_chuyển.png</file>
+    <file>Nut_home.png</file>
+    <file>Nut4.png</file>
+    <file>Hien_thi.png</file>
+    <file>0.png</file>
+    <file>1.png</file>
+    <file>2.png</file>
+    <file>3.png</file>
+    <file>4.png</file>
+    <file>5.png</file>
+    <file>6.png</file>
+    <file>7.png</file>
+    <file>8.png</file>
+    <file>9.png</file>
+    <file>a.png</file>
+    <file>b.png</file>
+    <file>c.png</file>
+    <file>ă.png</file>
+    <file>a_2.png</file>
+    <file>â_2.png</file>
+    <file>d.png</file>
+    <file>e.png</file>
+    <file>f.png</file>
+    <file>g.png</file>
+    <file>h.png</file>
+    <file>i.png</file>
+    <file>k.png</file>
+    <file>l.png</file>
+    <file>m.png</file>
+    <file>n.png</file>
+    <file>Nut_home.png</file>
+    <file>o.png</file>
+    <file>p.png</file>
+    <file>q.png</file>
+    <file>r.png</file>
+    <file>s.png</file>
+    <file>t.png</file>
+    <file>u.png</file>
+    <file>v.png</file>
+    <file>x.png</file>
+    <file>y.png</file>
+    <file>Background2.png</file>
+    <file>Background3.png</file>
+    <file>Nut1.png</file>
+    <file>Nut2.png</file>
+    <file>Nut3.png</file>
+    <file>Nut.png</file>
+    <file>Background.png</file>
+  </qresource>
+</RCC>
